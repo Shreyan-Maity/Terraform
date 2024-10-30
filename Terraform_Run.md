@@ -2,7 +2,7 @@
 
 1. Open terminal, go to the directory where you have the terraform files, then **RUN**.
    ```
-   terraform init
+  **terraform init**
    ```
    OutPut:
    ```
@@ -11,7 +11,7 @@
 
 2. Then **RUN**, for the validation check.
    ```
-   terraform validate
+  **terraform validate**
    ```
    OutPut:
    ```
@@ -20,7 +20,7 @@
 
 3. Then **RUN**, to plan your workflow
    ```
-   terraform plan
+  **terraform plan**
    ```
    OutPut:
    ```
@@ -29,7 +29,7 @@
 
 4. Then **RUN**, Apply your work
    ```
-   terraform apply
+  **terraform apply**
    ```
    OutPut:
    ```
@@ -40,7 +40,7 @@
 
 6. To Destroy RUN,
    ```
-   terraform destroy
+  **terraform destroy**
    ```
    OutPut:
    ```
