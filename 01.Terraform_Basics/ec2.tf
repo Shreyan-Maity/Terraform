@@ -6,6 +6,6 @@ resource "aws_instance" "name" {
   #count = 10 #contus is used to create a set number of instances
 
   tags = {
-    name = "TestEC2"
+    Name = "TestEC2"
   }
 }
